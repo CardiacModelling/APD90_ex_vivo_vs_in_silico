@@ -8,6 +8,6 @@ Welcome to this repo supporting the paper "Benchmark of existing human ventricul
   
 Once you have the required packages, you should be able to run the scripts included in the repo, and reproduce our figures. Note that some figures (2D maps of ORd based models in particular) may be long to reproduce so be patient ;)
 
-You might want to quickly run the models using OpenCOR, a simulation interface for CellML models (https://opencor.ws/).
+You might want to quickly run the models using OpenCOR, a simulation interface for CellML models (https://opencor.ws/)(Garny, Alan, and Peter J. Hunter. "OpenCOR: a modular and interoperable approach to computational biology." Frontiers in physiology 6 (2015): 26.)
 
 Have a great day of modelling and simulation!
