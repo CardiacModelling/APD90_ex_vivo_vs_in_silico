@@ -16,93 +16,51 @@ import matplotlib.patches as patches
 
 
 # In[Load the 2D map of APD90]
+# YOU NEED TO UNCOMMENT THE FILENAME FOR THE MAP YOU WANT TO RETRIEVE
 # Grd10
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/Grandi 2010/paper/Grandi.csv'
+#filename = './Figures/2D maps CSV/Grandi.csv'
 
 # Grd Mann
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/Grandi Mann/Grandi Mann.csv'
+#filename = './Figures/2D maps CSV/Grandi Mann.csv'
 
 # ORd11
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/ORd 2011/paper/ORd 2011.csv'
+#filename = './Figures/2D maps CSV/ORd 2011.csv'
 
 # ORd CiPA
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/Ord 2017/Paper/ORd CiPA.csv'
+#filename = './Figures/2D maps CSV/ORd CiPA.csv'
 
 # ORd Mann
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/ORd Mann/ORd Mann.csv'
+#filename = './Figures/2D maps CSV/ORd Mann.csv'
 
 # ORd Krogh
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/ORd Krogh/ORd Krogh.csv'
+#filename = './Figures/2D maps CSV/ORd Krogh.csv'
 
 # ToR ORd
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/ToR ORd/ToR ORd.csv'
+#filename = './Figures/2D maps CSV/ToR ORd.csv'
 
 # TT06
-filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/Original TT06/paper/TT06.csv'
+filename = './Figures/2D maps CSV/TT06.csv'
 
 # TT06 Mann
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/TT06 Mann/TT06 Mann.csv'
+#filename = './Figures/2D maps CSV/TT06 Mann.csv'
 
 # TT2.0
-#filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/TT2.0/TT2.0.csv'
+#filename = './Figures/2D maps CSV/TT2.0.csv'
 
 APD90_array = np.loadtxt(filename, delimiter=',', skiprows = 0)
 num_spaces = 101
 percentage_of_IKr_block = np.linspace(0, 1, num_spaces)
 percentage_of_ICaL_block = np.linspace(0, 1, num_spaces)
 
-#
-#
-## In[Restructure the map] 
-#index_of_state = 2
-#restruct_map = np.zeros((num_spaces, num_spaces))
-#for i in range(len(APD90_array)):
-#    restruct_map[int(APD90_array[i,0]), int(APD90_array[i, 1])] = APD90_array[i, index_of_state]
-#
-#
-## In[]
-#viridis = cm.get_cmap('Spectral_r', 500)
-#
-#fig, ax = plt.subplots(1,1)
-#fig.set_figheight(30)
-#fig.set_figwidth(30)
-#
-#APD90_res = np.array(restruct_map)
-#plt.imshow(APD90_res, cmap=viridis)
-#
-##plt.clim(120, 145)
-#plt.colorbar()
-#
-#plt.title('2D map of APD90 versus ICaL and IKr block,\n for ' + model + ' model and ex vivo data', Fontsize = 45)
-#plt.xlabel('Fraction of available IKr', Fontsize=45)
-#plt.ylabel('Fraction of available ICaL', Fontsize=45)
-#plt.xticks(np.linspace(0,num_spaces-1,11), np.round(np.linspace(np.min(percentage_of_IKr_block),np.max(percentage_of_IKr_block),11),3), 
-#           rotation = 90,
-#           Fontsize= 45)
-#plt.yticks(np.linspace(0,num_spaces-1,11), np.round(1 - np.linspace(np.min(percentage_of_ICaL_block),np.max(percentage_of_ICaL_block),11),3),
-#           Fontsize = 45)
-#
-#
-#
-#
-#
-#
-#
-
-
-
-
-
-
 # In[Load compounds ex vivo data]
 #Load IC50 data
 
-filename = 'C:/Users/barraly/Documents/PhD/Ion Channel Data/benchmark drugs IC50.csv'
+filename = './Scripts/benchmark drugs IC50.csv'
 IC50_data = np.loadtxt(filename, delimiter = ';', skiprows = 1, dtype=list)
 
 # Load ex vivo data
 
-filename = 'C:/Users/barraly/Documents/PhD/ex vivo data/20 APs data - 6 compounds/benchmark APD90.csv'
+filename = './Scripts/benchmark APD90.csv'
 ex_vivo = np.loadtxt(filename, delimiter = ';', skiprows = 1, dtype=list)
 
 # Define the function to compute the block for a given IC50 data and conc
