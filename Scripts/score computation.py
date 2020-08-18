@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 # In[Load compounds ex vivo data]
 #Load IC50 data
 
-filename = 'C:/Users/barraly/Documents/PhD/Ion Channel Data/benchmark drugs IC50.csv'
+filename = './benchmark drugs IC50.csv'
 IC50_data = np.loadtxt(filename, delimiter = ';', skiprows = 1, dtype=list)
 
 # Transform IC50_data to numeric values
@@ -22,7 +22,7 @@ for row in range(len(IC50_data)):
 
 # Load ex vivo data
 
-filename = 'C:/Users/barraly/Documents/PhD/ex vivo data/20 APs data - 6 compounds/benchmark APD90.csv'
+filename = './benchmark APD90.csv'
 ex_vivo = np.loadtxt(filename, delimiter = ';', skiprows = 1, dtype=list)
 
 
@@ -134,34 +134,34 @@ def score(map_sim):
 
 
 # In[Load the data for the models and compute the corresponding scores]
-Grd10 = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/Grandi 2010/paper/Grandi.csv', delimiter = ',')
+Grd10 = np.loadtxt('./Figures/2D maps CSV/Grandi.csv', delimiter = ',')
 score_Grd10 = score(Grd10)
 
-GrdMann = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/Grandi Mann/Grandi Mann.csv', delimiter = ',')
+GrdMann = np.loadtxt('./Figures/2D maps CSV/Grandi Mann.csv', delimiter = ',')
 score_GrdMann = score(GrdMann)
 
-ORd11 = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/ORd 2011/paper/ORd 2011.csv', delimiter = ',')
+ORd11 = np.loadtxt('./Figures/2D maps CSV/ORd 2011.csv', delimiter = ',')
 score_ORd11 = score(ORd11)
 
-ORd_CiPA = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/Ord 2017/Paper/ORd CiPA.csv', delimiter = ',')
+ORd_CiPA = np.loadtxt('./Figures/2D maps CSV/ORd CiPA.csv', delimiter = ',')
 score_ORd_CiPA = score(ORd_CiPA)
 
-ORdKrg = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/ORd Krogh/ORd Krogh.csv', delimiter = ',')
+ORdKrg = np.loadtxt('./Figures/2D maps CSV/ORd Krogh.csv', delimiter = ',')
 score_ORdKrg = score(ORdKrg)
 
-ORdMann = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/ORd Mann/ORd Mann.csv', delimiter = ',')
+ORdMann = np.loadtxt('./Figures/2D maps CSV/ORd Mann.csv', delimiter = ',')
 score_ORdMann = score(ORdMann)
 
-ToRORd = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/ToR ORd/ToR ORd.csv', delimiter = ',')
+ToRORd = np.loadtxt('./Figures/2D maps CSV/ToR ORd.csv', delimiter = ',')
 score_ToRORd = score(ToRORd)
 
-TT = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/Original TT06/paper/TT06.csv', delimiter = ',')
+TT = np.loadtxt('./Figures/2D maps CSV/TT06.csv', delimiter = ',')
 score_TT = score(TT)
 
-TTMann = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/TT06 Mann/TT06 Mann.csv', delimiter = ',')
+TTMann = np.loadtxt('./Figures/2D maps CSV/TT06 Mann.csv', delimiter = ',')
 score_TTMann = score(TTMann)
 
-TTupd = np.loadtxt('C:/Users/barraly/Documents/PhD/Benchmark of models/2D maps/TT2.0/TT2.0.csv', delimiter = ',')
+TTupd = np.loadtxt('./Figures/2D maps CSV/TT2.0.csv', delimiter = ',')
 
 score_TTupd = score(TTupd)
 
