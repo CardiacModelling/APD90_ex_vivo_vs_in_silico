@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 18 14:30:26 2019
 
-@author: yanral
+@author: yann-stanislas.barral@roche.com
 """
 
 import matplotlib.pyplot as plt
@@ -14,7 +14,7 @@ import matplotlib.colors as colors
 # In[Load compounds ex vivo data]
 #Load IC50 data
 
-filename = 'C:/Users/barraly/Documents/PhD/Benchmark of models/Variability of IC50/all drugs.csv'
+filename = './all drugs.csv'
 IC50_data = np.loadtxt(filename, delimiter = ';', skiprows = 1, dtype=list)
 
 # Transform IC50_data to numeric values
@@ -24,7 +24,7 @@ for row in range(len(IC50_data)):
 
 # Load ex vivo data
 
-filename = 'C:/Users/barraly/Documents/PhD/ex vivo data/20 APs data - 6 compounds/benchmark APD90.csv'
+filename = './benchmark APD90.csv'
 ex_vivo = np.loadtxt(filename, delimiter = ';', skiprows = 1, dtype=list)
 
 
