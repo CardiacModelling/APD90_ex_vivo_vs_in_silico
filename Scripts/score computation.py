@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 # In[Load compounds ex vivo data]
 #Load IC50 data
 
-filename = './benchmark drugs IC50.csv'
+filename = './Scripts/benchmark drugs IC50.csv'
 IC50_data = np.loadtxt(filename, delimiter = ';', skiprows = 1, dtype=list)
 
 # Transform IC50_data to numeric values
@@ -22,7 +22,7 @@ for row in range(len(IC50_data)):
 
 # Load ex vivo data
 
-filename = './benchmark APD90.csv'
+filename = './Scripts/benchmark APD90.csv'
 ex_vivo = np.loadtxt(filename, delimiter = ';', skiprows = 1, dtype=list)
 
 
