@@ -1,0 +1,19 @@
+Drug;Concentration;APD90 mean;APD90 stdev
+Clozapine;300;5;11
+Clozapine;3000;5;8
+Clozapine;30000;12;15
+Dofetilide;1;20;23
+Dofetilide;10;81;40
+Dofetilide;100;237;105
+Nifedipine;3;7;6
+Nifedipine;30;-9;22
+Nifedipine;300;-24;11
+Quinidine;100;-2;25
+Quinidine;1000;-3;30
+Quinidine;10000;29;33
+Sotalol;1000;7;20
+Sotalol;10000;36;39
+Sotalol;100000;141;58
+Verapamil;10;-17;16
+Verapamil;100;-21;19
+Verapamil;1000;-20;34
