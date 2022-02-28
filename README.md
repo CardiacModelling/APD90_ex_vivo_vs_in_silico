@@ -2,7 +2,7 @@
 
 Hi fellow scientist!
 
-Welcome to this repo supporting the paper "Benchmark of existing human ventricular cell models against ex vivo data", (Barral et al. 2020). This is the place where you will find all the necessary resources to reproduce our results. To make sure that everything runs smoothly, please beforehand:
+Welcome to this repo supporting the paper "Benchmark of existing human ventricular action potential models against ex vivo data for APD90 response to acute IKr/ICaL inhibition", (Barral et al. 2022). This is the place where you will find all the necessary resources to reproduce our results. To make sure that everything runs smoothly, please beforehand:
   - Install the Python Package Myokit (http://myokit.org/) (Michael Clerx, Pieter Collins, Enno de Lange, and Paul GA Volders.  Myokit:  a simple interface to cardiac cellularelectrophysiology.Progress in biophysics and molecular biology, 120(1-3):100–114, 2016)
   - Install the Python Package SABS_PKPD (https://github.com/rcw5890/SABS_project)
   
