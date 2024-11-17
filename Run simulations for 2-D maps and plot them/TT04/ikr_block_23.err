@@ -1,0 +1,4 @@
+/home/valmseb/.local/lib/python3.8/site-packages/myokit/_expressions.py:2412: RuntimeWarning: invalid value encountered in log
+  return numpy.log(self._operands[0]._eval(subst, precision))
+/home/valmseb/.local/lib/python3.8/site-packages/myokit/_expressions.py:2412: RuntimeWarning: invalid value encountered in log
+  return numpy.log(self._operands[0]._eval(subst, precision))
