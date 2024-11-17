@@ -1,0 +1,348 @@
+
+Model for the simulation : TT06_Endo.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+['sundials_cvodes', 'sundials_nvecserial', 'm']
+['/home/valmseb/sundials/lib64']
+['/home/valmseb/sundials/include', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim']
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr rescale : 0.4623679186675585, ICaL rescale: 0.143288971169722
+Computing condition 1. IKr rescale : 0.7027700436330226, ICaL rescale: 0.3254710152586642
+Computing condition 2. IKr rescale : 0.8561110097145884, ICaL rescale: 0.5592299846857396
+Computing condition 3. IKr rescale : 0.113009264444213, ICaL rescale: 0.2152224984777996
+Computing condition 4. IKr rescale : 0.3116146674959102, ICaL rescale: 0.4041168982655364
+Computing condition 5. IKr rescale : 0.5900706304626205, ICaL rescale: 0.6077385328949906
+Computing condition 6. IKr rescale : 0.9420719249727334, ICaL rescale: 0.8974640973367198
+Computing condition 7. IKr rescale : 0.024032424773919, ICaL rescale: 9.992007221626409e-14
+Computing condition 8. IKr rescale : 0.2366414328719811, ICaL rescale: 1.000088900582341e-12
+Computing condition 9. IKr rescale : 0.7960296496510776, ICaL rescale: 1.000000082740371e-11
+Computing condition 10. IKr rescale : 0.8932258581844412, ICaL rescale: 2.000000165480742e-11
+Computing condition 11. IKr rescale : 0.2519671909708898, ICaL rescale: 0.245550894893015
+Computing condition 12. IKr rescale : 0.6053132799702727, ICaL rescale: 0.5014097297067663
+Computing condition 13. IKr rescale : 0.859459340241408, ICaL rescale: 0.7378915761257661
+Computing condition 14. IKr rescale : 0.0736648250460404, ICaL rescale: 0.0286272068219727
+Computing condition 15. IKr rescale : 0.3320053120849933, ICaL rescale: 0.1065864567524981
+Computing condition 16. IKr rescale : 0.9521089212605922, ICaL rescale: 0.6656380380456202
+Computing condition 17. IKr rescale : 3.000000248221113e-11, ICaL rescale: 0.046597489743473
+Computing condition 18. IKr rescale : 3.0000002482211125e-10, ICaL rescale: 0.2566229001077756
+Computing condition 19. IKr rescale : 3.000000026176508e-09, ICaL rescale: 0.7091581644459739
+Computing condition 20. IKr rescale : 0.0917092259813568, ICaL rescale: 0.0334354496768651
+Computing condition 21. IKr rescale : 0.5087420966911307, ICaL rescale: 0.1285878452364627
+Computing condition 22. IKr rescale : 0.9139529992501308, ICaL rescale: 0.3863042145536379
+Computing condition 23. IKr rescale : 0.0655737704918032, ICaL rescale: 0.0181318213861421
+Computing condition 24. IKr rescale : 0.7782101167315175, ICaL rescale: 0.5503042545304597
+Computing condition 25. IKr rescale : 0.9212344541685858, ICaL rescale: 0.8164620431513989
+Computing condition 26. IKr rescale : 0.038021939055523, ICaL rescale: 0.0279729896435464
+Computing condition 27. IKr rescale : 0.2726532124005364, ICaL rescale: 0.1312122125610307
+Computing condition 28. IKr rescale : 0.780472665777934, ICaL rescale: 0.4421547476955312
+The score for the model TT06_Endo.mmtis : 370.52238125822134
+Computing condition 0. IKr rescale : 0.3801707493219759, ICaL rescale: 0.1100210367205141
+Computing condition 1. IKr rescale : 0.5852408871724223, ICaL rescale: 0.2737562841764829
+Computing condition 2. IKr rescale : 0.7511145348304147, ICaL rescale: 0.510415383336664
+Computing condition 3. IKr rescale : 0.145886231935243, ICaL rescale: 0.0759783973205077
+Computing condition 4. IKr rescale : 0.3454466673502075, ICaL rescale: 0.2016226067177735
+Computing condition 5. IKr rescale : 0.596351284653571, ICaL rescale: 0.4128303417880561
+Computing condition 6. IKr rescale : 0.9274260585666908, ICaL rescale: 0.8573842478883252
+Computing condition 7. IKr rescale : 0.0164488537491905, ICaL rescale: 9.992007221626409e-14
+Computing condition 8. IKr rescale : 0.1983101984852515, ICaL rescale: 1.000088900582341e-12
+Computing condition 9. IKr rescale : 0.785352459010902, ICaL rescale: 1.000000082740371e-11
+Computing condition 10. IKr rescale : 0.8916896541743797, ICaL rescale: 2.000000165480742e-11
+Computing condition 11. IKr rescale : 0.330677871469512, ICaL rescale: 0.2799539789051168
+Computing condition 12. IKr rescale : 0.5481114252938972, ICaL rescale: 0.5346657011407907
+Computing condition 13. IKr rescale : 0.7335301762143052, ICaL rescale: 0.7554024938659608
+Computing condition 14. IKr rescale : 0.1229510888044411, ICaL rescale: 0.0212867176923522
+Computing condition 15. IKr rescale : 0.3532004494787505, ICaL rescale: 0.0909892893611739
+Computing condition 16. IKr rescale : 0.8939887398450755, ICaL rescale: 0.6837850713112912
+Computing condition 17. IKr rescale : 3.000000248221113e-11, ICaL rescale: 0.0578050573791016
+Computing condition 18. IKr rescale : 3.0000002482211125e-10, ICaL rescale: 0.2439817521894727
+Computing condition 19. IKr rescale : 3.000000026176508e-09, ICaL rescale: 0.6292945866528712
+Computing condition 20. IKr rescale : 0.047213833255859, ICaL rescale: 0.0147492625368732
+Computing condition 21. IKr rescale : 0.5703766262364549, ICaL rescale: 0.1302083333333332
+Computing condition 22. IKr rescale : 0.972654566574934, ICaL rescale: 0.5995203836930456
+Computing condition 23. IKr rescale : 0.0641850011157662, ICaL rescale: 0.0067420136204301
+Computing condition 24. IKr rescale : 0.8065857424653773, ICaL rescale: 0.4812041411120289
+Computing condition 25. IKr rescale : 0.9365616837595584, ICaL rescale: 0.8081718704928204
+Computing condition 26. IKr rescale : 0.0011863066862188, ICaL rescale: 0.03125
+Computing condition 27. IKr rescale : 0.052172516825124, ICaL rescale: 0.2439024390243903
+Computing condition 28. IKr rescale : 0.7183901326299547, ICaL rescale: 0.7633587786259542
+The score for the model TT06_Endo.mmtis : 371.6652652921273
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@rkanc016is01>
+Subject: Job 30819374: <barraly:rep1prod:ST-17579230:TT06 Endo> in cluster <rka> Done
+
+Job <barraly:rep1prod:ST-17579230:TT06 Endo> was submitted from host <rbalv608248.bas.roche.com> by user <valmseb> in cluster <rka> at Fri Dec  9 20:37:19 2022
+Job was executed on host(s) <2*rkanc016is01>, in queue <long>, as user <valmseb> in cluster <rka> at Fri Dec  9 20:37:19 2022
+</home/valmseb> was used as the home directory.
+</pmount/projects/site/pred/modsim_filestore/valmsep/xfer/F3248714C2DA4BF69AF1CE1B6DE37AEC> was used as the working directory.
+Started at Fri Dec  9 20:37:19 2022
+Terminated at Fri Dec  9 20:47:42 2022
+Results reported at Fri Dec  9 20:47:42 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+ml Python/3.8.2-GCCcore-9.3.0;python compute_score.py TT06_Endo potassium_dynamics.K_o sodium_dynamics.Na_o calcium_dynamics.Ca_o
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   622.68 sec.
+    Max Memory :                                 98 MB
+    Average Memory :                             64.06 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   624 sec.
+    Turnaround time :                            623 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <TT06_Endo_score.err> for stderr output of this job.
+
+
+Model for the simulation : TT06_Endo.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+['sundials_cvodes', 'sundials_nvecserial', 'm']
+['/home/valmseb/sundials/lib64']
+['/home/valmseb/sundials/include', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim']
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr block : 0.4623679186675585, ICaL block: 0.143288971169722
+Computing condition 1. IKr block : 0.7027700436330226, ICaL block: 0.3254710152586642
+Computing condition 2. IKr block : 0.8561110097145884, ICaL block: 0.5592299846857396
+Computing condition 3. IKr block : 0.113009264444213, ICaL block: 0.2152224984777996
+Computing condition 4. IKr block : 0.3116146674959102, ICaL block: 0.4041168982655364
+Computing condition 5. IKr block : 0.5900706304626205, ICaL block: 0.6077385328949906
+Computing condition 6. IKr block : 0.9420719249727334, ICaL block: 0.8974640973367198
+Computing condition 7. IKr block : 0.024032424773919, ICaL block: 9.992007221626409e-14
+Computing condition 8. IKr block : 0.2366414328719811, ICaL block: 1.000088900582341e-12
+Computing condition 9. IKr block : 0.7960296496510776, ICaL block: 1.000000082740371e-11
+Computing condition 10. IKr block : 0.8932258581844412, ICaL block: 2.000000165480742e-11
+Computing condition 11. IKr block : 0.2519671909708898, ICaL block: 0.245550894893015
+Computing condition 12. IKr block : 0.6053132799702727, ICaL block: 0.5014097297067663
+Computing condition 13. IKr block : 0.859459340241408, ICaL block: 0.7378915761257661
+Computing condition 14. IKr block : 0.0736648250460404, ICaL block: 0.0286272068219727
+Computing condition 15. IKr block : 0.3320053120849933, ICaL block: 0.1065864567524981
+Computing condition 16. IKr block : 0.9521089212605922, ICaL block: 0.6656380380456202
+Computing condition 17. IKr block : 3.000000248221113e-11, ICaL block: 0.046597489743473
+Computing condition 18. IKr block : 3.0000002482211125e-10, ICaL block: 0.2566229001077756
+Computing condition 19. IKr block : 3.000000026176508e-09, ICaL block: 0.7091581644459739
+Computing condition 20. IKr block : 0.0917092259813568, ICaL block: 0.0334354496768651
+Computing condition 21. IKr block : 0.5087420966911307, ICaL block: 0.1285878452364627
+Computing condition 22. IKr block : 0.9139529992501308, ICaL block: 0.3863042145536379
+Computing condition 23. IKr block : 0.0655737704918032, ICaL block: 0.0181318213861421
+Computing condition 24. IKr block : 0.7782101167315175, ICaL block: 0.5503042545304597
+Computing condition 25. IKr block : 0.9212344541685858, ICaL block: 0.8164620431513989
+Computing condition 26. IKr block : 0.038021939055523, ICaL block: 0.0279729896435464
+Computing condition 27. IKr block : 0.2726532124005364, ICaL block: 0.1312122125610307
+Computing condition 28. IKr block : 0.780472665777934, ICaL block: 0.4421547476955312
+The score for the model TT06_Endo.mmtis : 286.0161635205448
+Computing condition 0. IKr block : 0.3801707493219759, ICaL block: 0.1100210367205141
+Computing condition 1. IKr block : 0.5852408871724223, ICaL block: 0.2737562841764829
+Computing condition 2. IKr block : 0.7511145348304147, ICaL block: 0.510415383336664
+Computing condition 3. IKr block : 0.145886231935243, ICaL block: 0.0759783973205077
+Computing condition 4. IKr block : 0.3454466673502075, ICaL block: 0.2016226067177735
+Computing condition 5. IKr block : 0.596351284653571, ICaL block: 0.4128303417880561
+Computing condition 6. IKr block : 0.9274260585666908, ICaL block: 0.8573842478883252
+Computing condition 7. IKr block : 0.0164488537491905, ICaL block: 9.992007221626409e-14
+Computing condition 8. IKr block : 0.1983101984852515, ICaL block: 1.000088900582341e-12
+Computing condition 9. IKr block : 0.785352459010902, ICaL block: 1.000000082740371e-11
+Computing condition 10. IKr block : 0.8916896541743797, ICaL block: 2.000000165480742e-11
+Computing condition 11. IKr block : 0.330677871469512, ICaL block: 0.2799539789051168
+Computing condition 12. IKr block : 0.5481114252938972, ICaL block: 0.5346657011407907
+Computing condition 13. IKr block : 0.7335301762143052, ICaL block: 0.7554024938659608
+Computing condition 14. IKr block : 0.1229510888044411, ICaL block: 0.0212867176923522
+Computing condition 15. IKr block : 0.3532004494787505, ICaL block: 0.0909892893611739
+Computing condition 16. IKr block : 0.8939887398450755, ICaL block: 0.6837850713112912
+Computing condition 17. IKr block : 3.000000248221113e-11, ICaL block: 0.0578050573791016
+Computing condition 18. IKr block : 3.0000002482211125e-10, ICaL block: 0.2439817521894727
+Computing condition 19. IKr block : 3.000000026176508e-09, ICaL block: 0.6292945866528712
+Computing condition 20. IKr block : 0.047213833255859, ICaL block: 0.0147492625368732
+Computing condition 21. IKr block : 0.5703766262364549, ICaL block: 0.1302083333333332
+Computing condition 22. IKr block : 0.972654566574934, ICaL block: 0.5995203836930456
+Computing condition 23. IKr block : 0.0641850011157662, ICaL block: 0.0067420136204301
+Computing condition 24. IKr block : 0.8065857424653773, ICaL block: 0.4812041411120289
+Computing condition 25. IKr block : 0.9365616837595584, ICaL block: 0.8081718704928204
+Computing condition 26. IKr block : 0.0011863066862188, ICaL block: 0.03125
+Computing condition 27. IKr block : 0.052172516825124, ICaL block: 0.2439024390243903
+Computing condition 28. IKr block : 0.7183901326299547, ICaL block: 0.7633587786259542
+The score for the model TT06_Endo.mmtis : 260.69782975194147
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@rkanc032is07>
+Subject: Job 31339503: <barraly:rep1prod:ST-17579230:TT06 Endo> in cluster <rka> Done
+
+Job <barraly:rep1prod:ST-17579230:TT06 Endo> was submitted from host <rbalv608248.bas.roche.com> by user <valmseb> in cluster <rka> at Fri Dec 16 16:02:44 2022
+Job was executed on host(s) <2*rkanc032is07>, in queue <long>, as user <valmseb> in cluster <rka> at Fri Dec 16 16:02:50 2022
+</home/valmseb> was used as the home directory.
+</pmount/projects/site/pred/modsim_filestore/valmsep/xfer/434B7AD3D3244116BEC452918D7E7A54> was used as the working directory.
+Started at Fri Dec 16 16:02:50 2022
+Terminated at Fri Dec 16 16:14:04 2022
+Results reported at Fri Dec 16 16:14:04 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+ml Python/3.8.2-GCCcore-9.3.0;python compute_score.py TT06_Endo potassium_dynamics.K_o sodium_dynamics.Na_o calcium_dynamics.Ca_o
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   664.26 sec.
+    Max Memory :                                 124 MB
+    Average Memory :                             85.71 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   674 sec.
+    Turnaround time :                            680 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <TT06_Endo_score.err> for stderr output of this job.
+
+
+Model for the simulation : TT06_Endo.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+['sundials_cvodes', 'sundials_nvecserial', 'm']
+['/home/valmseb/sundials/lib64']
+['/home/valmseb/sundials/include', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim']
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr block : 0.4623679186675585, ICaL block: 0.143288971169722
+Computing condition 1. IKr block : 0.7027700436330226, ICaL block: 0.3254710152586642
+Computing condition 2. IKr block : 0.8561110097145884, ICaL block: 0.5592299846857396
+Computing condition 3. IKr block : 0.113009264444213, ICaL block: 0.2152224984777996
+Computing condition 4. IKr block : 0.3116146674959102, ICaL block: 0.4041168982655364
+Computing condition 5. IKr block : 0.5900706304626205, ICaL block: 0.6077385328949906
+Computing condition 6. IKr block : 0.9420719249727334, ICaL block: 0.8974640973367198
+Computing condition 7. IKr block : 0.024032424773919, ICaL block: 9.992007221626409e-14
+Computing condition 8. IKr block : 0.2366414328719811, ICaL block: 1.000088900582341e-12
+Computing condition 9. IKr block : 0.7960296496510776, ICaL block: 1.000000082740371e-11
+Computing condition 10. IKr block : 0.8932258581844412, ICaL block: 2.000000165480742e-11
+Computing condition 11. IKr block : 0.2519671909708898, ICaL block: 0.245550894893015
+Computing condition 12. IKr block : 0.6053132799702727, ICaL block: 0.5014097297067663
+Computing condition 13. IKr block : 0.859459340241408, ICaL block: 0.7378915761257661
+Computing condition 14. IKr block : 0.0736648250460404, ICaL block: 0.0286272068219727
+Computing condition 15. IKr block : 0.3320053120849933, ICaL block: 0.1065864567524981
+Computing condition 16. IKr block : 0.9521089212605922, ICaL block: 0.6656380380456202
+Computing condition 17. IKr block : 3.000000248221113e-11, ICaL block: 0.046597489743473
+Computing condition 18. IKr block : 3.0000002482211125e-10, ICaL block: 0.2566229001077756
+Computing condition 19. IKr block : 3.000000026176508e-09, ICaL block: 0.7091581644459739
+Computing condition 20. IKr block : 0.0917092259813568, ICaL block: 0.0334354496768651
+Computing condition 21. IKr block : 0.5087420966911307, ICaL block: 0.1285878452364627
+Computing condition 22. IKr block : 0.9139529992501308, ICaL block: 0.3863042145536379
+Computing condition 23. IKr block : 0.0655737704918032, ICaL block: 0.0181318213861421
+Computing condition 24. IKr block : 0.7782101167315175, ICaL block: 0.5503042545304597
+Computing condition 25. IKr block : 0.9212344541685858, ICaL block: 0.8164620431513989
+Computing condition 26. IKr block : 0.038021939055523, ICaL block: 0.0279729896435464
+Computing condition 27. IKr block : 0.2726532124005364, ICaL block: 0.1312122125610307
+Computing condition 28. IKr block : 0.780472665777934, ICaL block: 0.4421547476955312
+The score for the model TT06_Endo.mmtis : 63.41203140649562
+Computing condition 0. IKr block : 0.3801707493219759, ICaL block: 0.1100210367205141
+Computing condition 1. IKr block : 0.5852408871724223, ICaL block: 0.2737562841764829
+Computing condition 2. IKr block : 0.7511145348304147, ICaL block: 0.510415383336664
+Computing condition 3. IKr block : 0.145886231935243, ICaL block: 0.0759783973205077
+Computing condition 4. IKr block : 0.3454466673502075, ICaL block: 0.2016226067177735
+Computing condition 5. IKr block : 0.596351284653571, ICaL block: 0.4128303417880561
+Computing condition 6. IKr block : 0.9274260585666908, ICaL block: 0.8573842478883252
+Computing condition 7. IKr block : 0.0164488537491905, ICaL block: 9.992007221626409e-14
+Computing condition 8. IKr block : 0.1983101984852515, ICaL block: 1.000088900582341e-12
+Computing condition 9. IKr block : 0.785352459010902, ICaL block: 1.000000082740371e-11
+Computing condition 10. IKr block : 0.8916896541743797, ICaL block: 2.000000165480742e-11
+Computing condition 11. IKr block : 0.330677871469512, ICaL block: 0.2799539789051168
+Computing condition 12. IKr block : 0.5481114252938972, ICaL block: 0.5346657011407907
+Computing condition 13. IKr block : 0.7335301762143052, ICaL block: 0.7554024938659608
+Computing condition 14. IKr block : 0.1229510888044411, ICaL block: 0.0212867176923522
+Computing condition 15. IKr block : 0.3532004494787505, ICaL block: 0.0909892893611739
+Computing condition 16. IKr block : 0.8939887398450755, ICaL block: 0.6837850713112912
+Computing condition 17. IKr block : 3.000000248221113e-11, ICaL block: 0.0578050573791016
+Computing condition 18. IKr block : 3.0000002482211125e-10, ICaL block: 0.2439817521894727
+Computing condition 19. IKr block : 3.000000026176508e-09, ICaL block: 0.6292945866528712
+Computing condition 20. IKr block : 0.047213833255859, ICaL block: 0.0147492625368732
+Computing condition 21. IKr block : 0.5703766262364549, ICaL block: 0.1302083333333332
+Computing condition 22. IKr block : 0.972654566574934, ICaL block: 0.5995203836930456
+Computing condition 23. IKr block : 0.0641850011157662, ICaL block: 0.0067420136204301
+Computing condition 24. IKr block : 0.8065857424653773, ICaL block: 0.4812041411120289
+Computing condition 25. IKr block : 0.9365616837595584, ICaL block: 0.8081718704928204
+Computing condition 26. IKr block : 0.0011863066862188, ICaL block: 0.03125
+Computing condition 27. IKr block : 0.052172516825124, ICaL block: 0.2439024390243903
+Computing condition 28. IKr block : 0.7183901326299547, ICaL block: 0.7633587786259542
+The score for the model TT06_Endo.mmtis : 61.842607079678764
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@rkanc029is07>
+Subject: Job 31348007: <barraly:rep1prod:ST-17579230:TT06 Endo> in cluster <rka> Done
+
+Job <barraly:rep1prod:ST-17579230:TT06 Endo> was submitted from host <rbalv608248.bas.roche.com> by user <valmseb> in cluster <rka> at Fri Dec 16 20:45:07 2022
+Job was executed on host(s) <2*rkanc029is07>, in queue <long>, as user <valmseb> in cluster <rka> at Fri Dec 16 20:45:07 2022
+</home/valmseb> was used as the home directory.
+</pmount/projects/site/pred/modsim_filestore/valmsep/xfer/CDF51EEBEB3D4EA491AD067DFAE7DAEF> was used as the working directory.
+Started at Fri Dec 16 20:45:07 2022
+Terminated at Fri Dec 16 20:56:40 2022
+Results reported at Fri Dec 16 20:56:40 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+ml Python/3.8.2-GCCcore-9.3.0;python compute_score.py TT06_Endo potassium_dynamics.K_o sodium_dynamics.Na_o calcium_dynamics.Ca_o
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   692.56 sec.
+    Max Memory :                                 101 MB
+    Average Memory :                             62.91 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   694 sec.
+    Turnaround time :                            693 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <TT06_Endo_score.err> for stderr output of this job.
+

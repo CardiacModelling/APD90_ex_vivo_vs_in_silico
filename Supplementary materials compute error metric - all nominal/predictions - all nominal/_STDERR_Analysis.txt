@@ -1,0 +1,18 @@
+[I 2022-12-17 09:50:03.306 LabApp] JupyterLab extension loaded from C:\Users\barraly\.conda\envs\myenv\lib\site-packages\jupyterlab
+[I 2022-12-17 09:50:03.306 LabApp] JupyterLab application directory is C:\Users\barraly\.conda\envs\myenv\share\jupyter\lab
+[I 09:50:03.315 NotebookApp] Serving notebooks from local directory: C:\Users\barraly\AppData\Local\scinteco\improve\runserver\runs\work\2D214D646ECD42C6A55142B686320A24
+[I 09:50:03.315 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 09:50:03.315 NotebookApp] http://localhost:8888/?token=bb2c480ef9bb29653e5a49253bafe09c4878b77d25641874
+[I 09:50:03.315 NotebookApp]  or http://127.0.0.1:8888/?token=bb2c480ef9bb29653e5a49253bafe09c4878b77d25641874
+[I 09:50:03.315 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:50:03.439 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/barraly/AppData/Roaming/jupyter/runtime/nbserver-15520-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=bb2c480ef9bb29653e5a49253bafe09c4878b77d25641874
+     or http://127.0.0.1:8888/?token=bb2c480ef9bb29653e5a49253bafe09c4878b77d25641874
+[I 09:50:12.947 NotebookApp] Kernel started: d0f0e3c9-4f52-4e7e-af2f-b3fdaf2a981f, name: python3
+[I 09:50:19.189 NotebookApp] Saving file at /benchmark nominal.ipynb
+[I 09:51:21.801 NotebookApp] Saving file at /benchmark nominal.ipynb
+[I 09:51:23.832 NotebookApp] Starting buffering for d0f0e3c9-4f52-4e7e-af2f-b3fdaf2a981f:051b05f9270c42f683dba12b5227d912

@@ -1,0 +1,16 @@
+System information for \\RBAMW071343:
+Uptime:                    3 days 9 hours 47 minutes 55 seconds
+Kernel version:            Windows 10 Enterprise, Multiprocessor Free
+Product type:              Professional
+Product version:           6.3
+Service pack:              0
+Kernel build number:       19044
+Registered organization:   
+Registered owner:          
+IE version:                9.0000
+System root:               C:\WINDOWS
+Processors:                8
+Processor speed:           1.9 GHz
+Processor type:            Intel(R) Core(TM) i5-8350U CPU @
+Physical memory:           282 MB
+Video driver:              
