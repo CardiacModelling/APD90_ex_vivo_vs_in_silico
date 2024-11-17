@@ -1,0 +1,534 @@
+
+The following have been reloaded with a version change:
+  1) Python/2.7.11-goolf-1.7.20 => Python/3.6.5-2018.05
+
+WARNING:myokit:Using development version of Myokit (1.32.1.dev).
+WARNING:myokit._config:Sundials version not set in myokit.ini. Continuing with detected version (50700). For a tiny performance boost, please set this version in /pstore/home/valmseb/.config/myokit/myokit.ini
+
+Model for the simulation : TT06_Endo.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr rescale : 0.9999999997000001, ICaL rescale: 0.8791522480488905
+Computing condition 1. IKr rescale : 0.9999999970000001, ICaL rescale: 0.6086627390203593
+Computing condition 2. IKr rescale : 0.9999999700000007, ICaL rescale: 0.24954555969094516
+Computing condition 3. IKr rescale : 0.9699516360541908, ICaL rescale: 0.9999999998999999
+Computing condition 4. IKr rescale : 0.969315186825962, ICaL rescale: 0.9720270103564537
+Computing condition 5. IKr rescale : 0.9659120013192877, ICaL rescale: 0.9981655018334414
+Computing condition 6. IKr rescale : 0.9245283018867922, ICaL rescale: 0.9920219229023941
+Computing condition 7. IKr rescale : 0.890081731501237, ICaL rescale: 0.9665645503231349
+Computing condition 8. IKr rescale : 0.765926396384487, ICaL rescale: 0.931765973250687
+Computing condition 9. IKr rescale : 0.7419905398460478, ICaL rescale: 0.9567194704906261
+Computing condition 10. IKr rescale : 0.7379049183229366, ICaL rescale: 0.8687877874389691
+Computing condition 11. IKr rescale : 0.6807862818465069, ICaL rescale: 0.9999999989999999
+Computing condition 12. IKr rescale : 0.6621621621621621, ICaL rescale: 0.9598334211630121
+Computing condition 13. IKr rescale : 0.4760484402194374, ICaL rescale: 0.8714121547635372
+Computing condition 14. IKr rescale : 0.43043671994410415, ICaL rescale: 0.8373988556327577
+Computing condition 15. IKr rescale : 0.4091030752449947, ICaL rescale: 0.7695000076655841
+Computing condition 16. IKr rescale : 0.2005906764286124, ICaL rescale: 0.5578452523044688
+Computing condition 17. IKr rescale : 0.1824957507863587, ICaL rescale: 0.5768070001589467
+Computing condition 18. IKr rescale : 0.18141631357252586, ICaL rescale: 0.7709208661118097
+Computing condition 19. IKr rescale : 0.14370106864278542, ICaL rescale: 0.48003905353457843
+Computing condition 20. IKr rescale : 0.12350354236939609, ICaL rescale: 0.9999999900000002
+Computing condition 21. IKr rescale : 0.09251254704872647, ICaL rescale: 0.613695785446362
+Computing condition 22. IKr rescale : 0.0585479965048763, ICaL rescale: 0.9999999800000003
+Computing condition 23. IKr rescale : 0.047439091473698736, ICaL rescale: 0.4129832250540254
+Computing condition 24. IKr rescale : 0.046711153479504275, ICaL rescale: 0.463498294268185
+Computing condition 25. IKr rescale : 0.017033405945786506, ICaL rescale: 0.07752580314968804
+The score for the model TT06_Endo.mmtis : 54.299486774792086
+Computing condition 0. IKr rescale : 0.9999999997000001, ICaL rescale: 0.9756306566817685
+Computing condition 1. IKr rescale : 0.9999999970000001, ICaL rescale: 0.8312350563486111
+Computing condition 2. IKr rescale : 0.9999999700000007, ICaL rescale: 0.3773182163679726
+Computing condition 3. IKr rescale : 0.9988327019935219, ICaL rescale: 0.96875
+Computing condition 4. IKr rescale : 0.9921443064337616, ICaL rescale: 0.9999999998999999
+Computing condition 5. IKr rescale : 0.9529751140699639, ICaL rescale: 0.9852507374631267
+Computing condition 6. IKr rescale : 0.9481706798054402, ICaL rescale: 0.7560975609756098
+Computing condition 7. IKr rescale : 0.8680846439872657, ICaL rescale: 0.9983255791125594
+Computing condition 8. IKr rescale : 0.8523516795696939, ICaL rescale: 0.9999999989999999
+Computing condition 9. IKr rescale : 0.8021547619816816, ICaL rescale: 0.9821902647709426
+Computing condition 10. IKr rescale : 0.7870077582188076, ICaL rescale: 0.9988723177863967
+Computing condition 11. IKr rescale : 0.6598450845032876, ICaL rescale: 0.8922833582018366
+Computing condition 12. IKr rescale : 0.622611253956805, ICaL rescale: 0.9879206699536919
+Computing condition 13. IKr rescale : 0.5959165693425077, ICaL rescale: 0.9066931899122997
+Computing condition 14. IKr rescale : 0.5015894218562422, ICaL rescale: 0.8176614618626793
+Computing condition 15. IKr rescale : 0.42952611681531216, ICaL rescale: 0.8697916666666667
+Computing condition 16. IKr rescale : 0.37630776974325675, ICaL rescale: 0.7031092250509265
+Computing condition 17. IKr rescale : 0.3695017233507658, ICaL rescale: 0.6659028804676791
+Computing condition 18. IKr rescale : 0.3608794233485889, ICaL rescale: 0.4989043332133791
+Computing condition 19. IKr rescale : 0.2811552112609199, ICaL rescale: 0.23664122137404575
+Computing condition 20. IKr rescale : 0.24555518263731224, ICaL rescale: 0.40337151142578787
+Computing condition 21. IKr rescale : 0.20877949547217434, ICaL rescale: 0.9999999900000002
+Computing condition 22. IKr rescale : 0.17208761444101095, ICaL rescale: 0.4303535461909367
+Computing condition 23. IKr rescale : 0.09439498758396125, ICaL rescale: 0.9999999800000003
+Computing condition 24. IKr rescale : 0.07809425493206024, ICaL rescale: 0.06719385539523426
+Computing condition 25. IKr rescale : 0.02721270409191301, ICaL rescale: 0.4004796163069545
+The score for the model TT06_Endo.mmtis : 63.98165017695748
+
+Model for the simulation : TT06_Endo.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+['sundials_cvodes', 'sundials_nvecserial', 'm']
+['/home/valmseb/sundials/lib64']
+['/home/valmseb/sundials/include', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim']
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr rescale : 0.99999999997, ICaL rescale: 0.95340251026
+Computing condition 1. IKr rescale : 0.9999999997, ICaL rescale: 0.7433770999
+Computing condition 2. IKr rescale : 0.999999997, ICaL rescale: 0.2908418356
+Computing condition 3. IKr rescale : 0.99206505663, ICaL rescale: 0.9999999999999001
+Computing condition 4. IKr rescale : 0.96197806094, ICaL rescale: 0.9720270103599999
+Computing condition 5. IKr rescale : 0.93442622951, ICaL rescale: 0.98186817861
+Computing condition 6. IKr rescale : 0.92633517495, ICaL rescale: 0.97137279318
+Computing condition 7. IKr rescale : 0.91153397026, ICaL rescale: 0.999999999999
+Computing condition 8. IKr rescale : 0.90829077402, ICaL rescale: 0.96656455032
+Computing condition 9. IKr rescale : 0.8869907356, ICaL rescale: 0.7847775015
+Computing condition 10. IKr rescale : 0.748032809, ICaL rescale: 0.7544491051
+Computing condition 11. IKr rescale : 0.7273467875999999, ICaL rescale: 0.8687877874
+Computing condition 12. IKr rescale : 0.6883853325, ICaL rescale: 0.5958831016999999
+Computing condition 13. IKr rescale : 0.6679946879, ICaL rescale: 0.8934135432
+Computing condition 14. IKr rescale : 0.5376320813, ICaL rescale: 0.8567110287999999
+Computing condition 15. IKr rescale : 0.49125790329999997, ICaL rescale: 0.8714121548
+Computing condition 16. IKr rescale : 0.45921779760000003, ICaL rescale: 0.99999999999
+Computing condition 17. IKr rescale : 0.40992936950000003, ICaL rescale: 0.3922614671
+Computing condition 18. IKr rescale : 0.39468671999999994, ICaL rescale: 0.4985902703
+Computing condition 19. IKr rescale : 0.29722995639999994, ICaL rescale: 0.6745289847
+Computing condition 20. IKr rescale : 0.2860056351, ICaL rescale: 0.99999999998
+Computing condition 21. IKr rescale : 0.22178988329999993, ICaL rescale: 0.4496957454999999
+Computing condition 22. IKr rescale : 0.21952733420000003, ICaL rescale: 0.5578452522999999
+Computing condition 23. IKr rescale : 0.14388899030000002, ICaL rescale: 0.44077001529999993
+Computing condition 24. IKr rescale : 0.14054065980000008, ICaL rescale: 0.2621084239
+Computing condition 25. IKr rescale : 0.08604700070000004, ICaL rescale: 0.6136957854
+Computing condition 26. IKr rescale : 0.07876554580000006, ICaL rescale: 0.18353795680000007
+Computing condition 27. IKr rescale : 0.05792807499999997, ICaL rescale: 0.10253590270000001
+Computing condition 28. IKr rescale : 0.04789107869999998, ICaL rescale: 0.334361962
+The score for the model TT06_Endo.mmtis : 94.01783841008326
+Computing condition 0. IKr rescale : 0.99999999997, ICaL rescale: 0.94219494262
+Computing condition 1. IKr rescale : 0.9999999997, ICaL rescale: 0.7560182478
+Computing condition 2. IKr rescale : 0.999999997, ICaL rescale: 0.37070541329999995
+Computing condition 3. IKr rescale : 0.99881369331, ICaL rescale: 0.96875
+Computing condition 4. IKr rescale : 0.99463771118, ICaL rescale: 0.9999999999999001
+Computing condition 5. IKr rescale : 0.95278616674, ICaL rescale: 0.98525073746
+Computing condition 6. IKr rescale : 0.94782748317, ICaL rescale: 0.756097561
+Computing condition 7. IKr rescale : 0.93581499888, ICaL rescale: 0.99325798638
+Computing condition 8. IKr rescale : 0.93028872316, ICaL rescale: 0.999999999999
+Computing condition 9. IKr rescale : 0.8770489112, ICaL rescale: 0.97871328231
+Computing condition 10. IKr rescale : 0.8541137681, ICaL rescale: 0.92402160268
+Computing condition 11. IKr rescale : 0.6693221285, ICaL rescale: 0.7200460210999999
+Computing condition 12. IKr rescale : 0.6545533326, ICaL rescale: 0.7983773933
+Computing condition 13. IKr rescale : 0.6467995504999999, ICaL rescale: 0.90901071064
+Computing condition 14. IKr rescale : 0.6198292507000001, ICaL rescale: 0.8899789633
+Computing condition 15. IKr rescale : 0.48982094060000003, ICaL rescale: 0.99999999999
+Computing condition 16. IKr rescale : 0.4518885747, ICaL rescale: 0.4653342989
+Computing condition 17. IKr rescale : 0.42962337380000004, ICaL rescale: 0.8697916667
+Computing condition 18. IKr rescale : 0.4147591128, ICaL rescale: 0.7262437157999999
+Computing condition 19. IKr rescale : 0.4036487153, ICaL rescale: 0.5871696582
+Computing condition 20. IKr rescale : 0.3030134137, ICaL rescale: 0.99999999998
+Computing condition 21. IKr rescale : 0.28160986739999994, ICaL rescale: 0.2366412214
+Computing condition 22. IKr rescale : 0.26646982379999995, ICaL rescale: 0.24459750609999997
+Computing condition 23. IKr rescale : 0.2488854652, ICaL rescale: 0.4895846167
+Computing condition 24. IKr rescale : 0.19341425749999996, ICaL rescale: 0.5187958589
+Computing condition 25. IKr rescale : 0.10601126019999996, ICaL rescale: 0.3162149287
+Computing condition 26. IKr rescale : 0.07257394139999995, ICaL rescale: 0.1426157521
+Computing condition 27. IKr rescale : 0.06343831620000007, ICaL rescale: 0.19182812949999994
+Computing condition 28. IKr rescale : 0.027345433399999952, ICaL rescale: 0.40047961630000006
+The score for the model TT06_Endo.mmtis : 79.76563466642172
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@rkanc031is07>
+Subject: Job 20722086: <barraly:rep1prod:ST-13765740:TT06 Endo> in cluster <rka> Done
+
+Job <barraly:rep1prod:ST-13765740:TT06 Endo> was submitted from host <rkanc004is02> by user <valmseb> in cluster <rka> at Tue Aug 23 16:03:16 2022
+Job was executed on host(s) <2*rkanc031is07>, in queue <long>, as user <valmseb> in cluster <rka> at Tue Aug 23 16:03:16 2022
+</home/valmseb> was used as the home directory.
+</pmount/projects/site/pred/modsim_filestore/valmsep/xfer/C025619782D4422A9F175942CF3D75AD> was used as the working directory.
+Started at Tue Aug 23 16:03:16 2022
+Terminated at Tue Aug 23 16:11:49 2022
+Results reported at Tue Aug 23 16:11:49 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+ml Python/3.8.2-GCCcore-9.3.0;python compute_score.py TT06_Endo potassium_dynamics.K_o sodium_dynamics.Na_o calcium_dynamics.Ca_o
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   506.38 sec.
+    Max Memory :                                 138 MB
+    Average Memory :                             99.51 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   514 sec.
+    Turnaround time :                            513 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <TT06_Endo_score.err> for stderr output of this job.
+
+
+Model for the simulation : TT06_Endo.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+['sundials_cvodes', 'sundials_nvecserial', 'm']
+['/home/valmseb/sundials/lib64']
+['/home/valmseb/sundials/include', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim']
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr rescale : 0.99999999997, ICaL rescale: 0.95340251026
+Computing condition 1. IKr rescale : 0.9999999997, ICaL rescale: 0.7433770999
+Computing condition 2. IKr rescale : 0.999999997, ICaL rescale: 0.2908418356
+Computing condition 3. IKr rescale : 0.97638175769, ICaL rescale: 0.9999999999999001
+Computing condition 4. IKr rescale : 0.96197806094, ICaL rescale: 0.9720270103599999
+Computing condition 5. IKr rescale : 0.93442622951, ICaL rescale: 0.98186817861
+Computing condition 6. IKr rescale : 0.92633517495, ICaL rescale: 0.97137279318
+Computing condition 7. IKr rescale : 0.90829077402, ICaL rescale: 0.96656455032
+Computing condition 8. IKr rescale : 0.8869907356, ICaL rescale: 0.7847775015
+Computing condition 9. IKr rescale : 0.7648420464, ICaL rescale: 0.999999999999
+Computing condition 10. IKr rescale : 0.748032809, ICaL rescale: 0.7544491051
+Computing condition 11. IKr rescale : 0.7273467875999999, ICaL rescale: 0.8687877874
+Computing condition 12. IKr rescale : 0.6883853325, ICaL rescale: 0.5958831016999999
+Computing condition 13. IKr rescale : 0.6679946879, ICaL rescale: 0.8934135432
+Computing condition 14. IKr rescale : 0.5376320813, ICaL rescale: 0.8567110287999999
+Computing condition 15. IKr rescale : 0.49125790329999997, ICaL rescale: 0.8714121548
+Computing condition 16. IKr rescale : 0.40992936950000003, ICaL rescale: 0.3922614671
+Computing condition 17. IKr rescale : 0.39468671999999994, ICaL rescale: 0.4985902703
+Computing condition 18. IKr rescale : 0.29722995639999994, ICaL rescale: 0.6745289847
+Computing condition 19. IKr rescale : 0.22178988329999993, ICaL rescale: 0.4496957454999999
+Computing condition 20. IKr rescale : 0.21952733420000003, ICaL rescale: 0.5578452522999999
+Computing condition 21. IKr rescale : 0.20375146089999996, ICaL rescale: 0.99999999999
+Computing condition 22. IKr rescale : 0.14388899030000002, ICaL rescale: 0.44077001529999993
+Computing condition 23. IKr rescale : 0.14054065980000008, ICaL rescale: 0.2621084239
+Computing condition 24. IKr rescale : 0.10637117829999987, ICaL rescale: 0.99999999998
+Computing condition 25. IKr rescale : 0.08604700070000004, ICaL rescale: 0.6136957854
+Computing condition 26. IKr rescale : 0.07876554580000006, ICaL rescale: 0.18353795680000007
+Computing condition 27. IKr rescale : 0.05792807499999997, ICaL rescale: 0.10253590270000001
+Computing condition 28. IKr rescale : 0.04789107869999998, ICaL rescale: 0.334361962
+The score for the model TT06_Endo.mmtis : 89.90582226134408
+Computing condition 0. IKr rescale : 0.99999999997, ICaL rescale: 0.94219494262
+Computing condition 1. IKr rescale : 0.9999999997, ICaL rescale: 0.7560182478
+Computing condition 2. IKr rescale : 0.999999997, ICaL rescale: 0.37070541329999995
+Computing condition 3. IKr rescale : 0.99881369331, ICaL rescale: 0.96875
+Computing condition 4. IKr rescale : 0.98303807583, ICaL rescale: 0.9999999999999001
+Computing condition 5. IKr rescale : 0.95278616674, ICaL rescale: 0.98525073746
+Computing condition 6. IKr rescale : 0.94782748317, ICaL rescale: 0.756097561
+Computing condition 7. IKr rescale : 0.93581499888, ICaL rescale: 0.99325798638
+Computing condition 8. IKr rescale : 0.8770489112, ICaL rescale: 0.97871328231
+Computing condition 9. IKr rescale : 0.8541137681, ICaL rescale: 0.92402160268
+Computing condition 10. IKr rescale : 0.7984871633999999, ICaL rescale: 0.999999999999
+Computing condition 11. IKr rescale : 0.6693221285, ICaL rescale: 0.7200460210999999
+Computing condition 12. IKr rescale : 0.6545533326, ICaL rescale: 0.7983773933
+Computing condition 13. IKr rescale : 0.6467995504999999, ICaL rescale: 0.90901071064
+Computing condition 14. IKr rescale : 0.6198292507000001, ICaL rescale: 0.8899789633
+Computing condition 15. IKr rescale : 0.4518885747, ICaL rescale: 0.4653342989
+Computing condition 16. IKr rescale : 0.42962337380000004, ICaL rescale: 0.8697916667
+Computing condition 17. IKr rescale : 0.4147591128, ICaL rescale: 0.7262437157999999
+Computing condition 18. IKr rescale : 0.4036487153, ICaL rescale: 0.5871696582
+Computing condition 19. IKr rescale : 0.28160986739999994, ICaL rescale: 0.2366412214
+Computing condition 20. IKr rescale : 0.26646982379999995, ICaL rescale: 0.24459750609999997
+Computing condition 21. IKr rescale : 0.2488854652, ICaL rescale: 0.4895846167
+Computing condition 22. IKr rescale : 0.2131661561999999, ICaL rescale: 0.99999999999
+Computing condition 23. IKr rescale : 0.19341425749999996, ICaL rescale: 0.5187958589
+Computing condition 24. IKr rescale : 0.10778662490000002, ICaL rescale: 0.99999999998
+Computing condition 25. IKr rescale : 0.10601126019999996, ICaL rescale: 0.3162149287
+Computing condition 26. IKr rescale : 0.07257394139999995, ICaL rescale: 0.1426157521
+Computing condition 27. IKr rescale : 0.06343831620000007, ICaL rescale: 0.19182812949999994
+Computing condition 28. IKr rescale : 0.027345433399999952, ICaL rescale: 0.40047961630000006
+The score for the model TT06_Endo.mmtis : 75.62525996417912
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@rkanc035is07>
+Subject: Job 26270220: <barraly:rep1prod:ST-13765740:TT06 Endo> in cluster <rka> Done
+
+Job <barraly:rep1prod:ST-13765740:TT06 Endo> was submitted from host <rkanc004is02> by user <valmseb> in cluster <rka> at Tue Oct  4 00:53:51 2022
+Job was executed on host(s) <2*rkanc035is07>, in queue <long>, as user <valmseb> in cluster <rka> at Tue Oct  4 00:53:51 2022
+</home/valmseb> was used as the home directory.
+</pmount/projects/site/pred/modsim_filestore/valmsep/xfer/FA3C4752075949E898074C64805687EA> was used as the working directory.
+Started at Tue Oct  4 00:53:51 2022
+Terminated at Tue Oct  4 01:03:46 2022
+Results reported at Tue Oct  4 01:03:46 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+ml Python/3.8.2-GCCcore-9.3.0;python compute_score.py TT06_Endo potassium_dynamics.K_o sodium_dynamics.Na_o calcium_dynamics.Ca_o
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   583.35 sec.
+    Max Memory :                                 103 MB
+    Average Memory :                             64.83 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   591 sec.
+    Turnaround time :                            595 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <TT06_Endo_score.err> for stderr output of this job.
+
+
+Model for the simulation : TT06_Endo.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+['sundials_cvodes', 'sundials_nvecserial', 'm']
+['/home/valmseb/sundials/lib64']
+['/home/valmseb/sundials/include', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim']
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr rescale : 0.9925008635024585, ICaL rescale: 0.9905837678427947
+Computing condition 1. IKr rescale : 0.9950131204568553, ICaL rescale: 0.991645516435807
+Computing condition 2. IKr rescale : 0.9976004807893704, ICaL rescale: 0.9939594330975039
+Computing condition 3. IKr rescale : 0.991103113717507, ICaL rescale: 0.992119597779161
+Computing condition 4. IKr rescale : 0.9932890826379446, ICaL rescale: 0.9941785186764982
+Computing condition 5. IKr rescale : 0.995665833095007, ICaL rescale: 0.9959122215949692
+Computing condition 6. IKr rescale : 0.9994207192497273, ICaL rescale: 0.9989746409733672
+Computing condition 7. IKr rescale : 0.9902403242477392, ICaL rescale: 0.990000000000001
+Computing condition 8. IKr rescale : 0.9923664143287199, ICaL rescale: 0.99000000000001
+Computing condition 9. IKr rescale : 0.9979602964965107, ICaL rescale: 0.9900000000001
+Computing condition 10. IKr rescale : 0.9989322585818444, ICaL rescale: 0.9900000000002
+Computing condition 11. IKr rescale : 0.991250118091034, ICaL rescale: 0.9914669199863502
+Computing condition 12. IKr rescale : 0.9944316149758679, ICaL rescale: 0.9938164317607993
+Computing condition 13. IKr rescale : 0.9974777794533363, ICaL rescale: 0.9962156591017608
+Computing condition 14. IKr rescale : 0.9906133366509082, ICaL rescale: 0.9902474147521169
+Computing condition 15. IKr rescale : 0.993161889656735, ICaL rescale: 0.9910145229392621
+Computing condition 16. IKr rescale : 0.9994037105091578, ICaL rescale: 0.9962522793303347
+Computing condition 17. IKr rescale : 0.9900000000003, ICaL rescale: 0.9904659748974347
+Computing condition 18. IKr rescale : 0.990000000003, ICaL rescale: 0.9925662290010777
+Computing condition 19. IKr rescale : 0.99000000003, ICaL rescale: 0.9970915816444598
+Computing condition 20. IKr rescale : 0.9909170922598136, ICaL rescale: 0.9903343544967687
+Computing condition 21. IKr rescale : 0.9950874209669113, ICaL rescale: 0.9912858784523646
+Computing condition 22. IKr rescale : 0.9991395299925013, ICaL rescale: 0.9938630421455363
+Computing condition 23. IKr rescale : 0.9901039547721797, ICaL rescale: 0.9900240521702398
+Computing condition 24. IKr rescale : 0.99591788016233, ICaL rescale: 0.9932177092128065
+Computing condition 25. IKr rescale : 0.9982998608073176, ICaL rescale: 0.9963551296354184
+Computing condition 26. IKr rescale : 0.9903802193905552, ICaL rescale: 0.9902797298964354
+Computing condition 27. IKr rescale : 0.9927265321240054, ICaL rescale: 0.9913121221256103
+Computing condition 28. IKr rescale : 0.9978047266577793, ICaL rescale: 0.9944215474769553
+The score for the model TT06_Endo.mmtis : 67.80195091213712
+Computing condition 0. IKr rescale : 0.9921938569368962, ICaL rescale: 0.9904169224194505
+Computing condition 1. IKr rescale : 0.9941089701296842, ICaL rescale: 0.991280304067108
+Computing condition 2. IKr rescale : 0.9964226846795686, ICaL rescale: 0.9934224858490633
+Computing condition 3. IKr rescale : 0.9914289617533016, ICaL rescale: 0.9907430540564532
+Computing condition 4. IKr rescale : 0.993616030501625, ICaL rescale: 0.9921318053719838
+Computing condition 5. IKr rescale : 0.9957555790279624, ICaL rescale: 0.9939232721251915
+Computing condition 6. IKr rescale : 0.9992742605856669, ICaL rescale: 0.9985738424788833
+Computing condition 7. IKr rescale : 0.990164488537492, ICaL rescale: 0.990000000000001
+Computing condition 8. IKr rescale : 0.9919831019848525, ICaL rescale: 0.99000000000001
+Computing condition 9. IKr rescale : 0.997853524590109, ICaL rescale: 0.9900000000001
+Computing condition 10. IKr rescale : 0.9989168965417438, ICaL rescale: 0.9900000000002
+Computing condition 11. IKr rescale : 0.9922911593848466, ICaL rescale: 0.9917396447803138
+Computing condition 12. IKr rescale : 0.9945124142057308, ICaL rescale: 0.9941822741916657
+Computing condition 13. IKr rescale : 0.9964189697314798, ICaL rescale: 0.9964795804291346
+Computing condition 14. IKr rescale : 0.991080785168394, ICaL rescale: 0.9901813208634306
+Computing condition 15. IKr rescale : 0.9934105816278263, ICaL rescale: 0.9908613492712465
+Computing condition 16. IKr rescale : 0.9987656413477741, ICaL rescale: 0.9964067261434982
+Computing condition 17. IKr rescale : 0.9900000000003, ICaL rescale: 0.990578050573791
+Computing condition 18. IKr rescale : 0.990000000003, ICaL rescale: 0.9924398175218947
+Computing condition 19. IKr rescale : 0.99000000003, ICaL rescale: 0.9962929458665287
+Computing condition 20. IKr rescale : 0.9904721383325585, ICaL rescale: 0.9901474926253687
+Computing condition 21. IKr rescale : 0.9957037662623646, ICaL rescale: 0.9913020833333334
+Computing condition 22. IKr rescale : 0.9997265456657494, ICaL rescale: 0.9959952038369304
+Computing condition 23. IKr rescale : 0.9900925049389829, ICaL rescale: 0.9900062327571189
+Computing condition 24. IKr rescale : 0.996224303027421, ICaL rescale: 0.9923392375360796
+Computing condition 25. IKr rescale : 0.9985504757821007, ICaL rescale: 0.9958417135879796
+Computing condition 26. IKr rescale : 0.9900118630668622, ICaL rescale: 0.9903125
+Computing condition 27. IKr rescale : 0.9905217251682512, ICaL rescale: 0.9924390243902439
+Computing condition 28. IKr rescale : 0.9971839013262995, ICaL rescale: 0.9976335877862595
+The score for the model TT06_Endo.mmtis : 67.83535435496808
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@rkanc021is01>
+Subject: Job 26634510: <barraly:rep1prod:ST-13765740:TT06 Endo> in cluster <rka> Done
+
+Job <barraly:rep1prod:ST-13765740:TT06 Endo> was submitted from host <rkanc001is01> by user <valmseb> in cluster <rka> at Fri Oct 14 14:02:35 2022
+Job was executed on host(s) <2*rkanc021is01>, in queue <long>, as user <valmseb> in cluster <rka> at Fri Oct 14 14:02:35 2022
+</home/valmseb> was used as the home directory.
+</pmount/projects/site/pred/modsim_filestore/valmsep/xfer/F301077237114D698BCCD8074827311C> was used as the working directory.
+Started at Fri Oct 14 14:02:35 2022
+Terminated at Fri Oct 14 14:12:49 2022
+Results reported at Fri Oct 14 14:12:49 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+ml Python/3.8.2-GCCcore-9.3.0;python compute_score.py TT06_Endo potassium_dynamics.K_o sodium_dynamics.Na_o calcium_dynamics.Ca_o
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   603.54 sec.
+    Max Memory :                                 155 MB
+    Average Memory :                             116.63 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   615 sec.
+    Turnaround time :                            614 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <TT06_Endo_score.err> for stderr output of this job.
+
+
+Model for the simulation : TT06_Endo.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+['sundials_cvodes', 'sundials_nvecserial', 'm']
+['/home/valmseb/sundials/lib64']
+['/home/valmseb/sundials/include', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim']
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr rescale : 0.7499136497541532, ICaL rescale: 0.9416232157205352
+Computing condition 1. IKr rescale : 0.4986879543144751, ICaL rescale: 0.8354483564193039
+Computing condition 2. IKr rescale : 0.2399519210629603, ICaL rescale: 0.6040566902496064
+Computing condition 3. IKr rescale : 0.889688628249299, ICaL rescale: 0.7880402220838933
+Computing condition 4. IKr rescale : 0.6710917362055436, ICaL rescale: 0.5821481323501811
+Computing condition 5. IKr rescale : 0.4334166904993027, ICaL rescale: 0.4087778405030799
+Computing condition 6. IKr rescale : 0.0579280750272665, ICaL rescale: 0.1025359026632802
+Computing condition 7. IKr rescale : 0.9759675752260808, ICaL rescale: 0.9999999999999
+Computing condition 8. IKr rescale : 0.7633585671280189, ICaL rescale: 0.999999999999
+Computing condition 9. IKr rescale : 0.2039703503489224, ICaL rescale: 0.99999999999
+Computing condition 10. IKr rescale : 0.1067741418155588, ICaL rescale: 0.99999999998
+Computing condition 11. IKr rescale : 0.8749881908965963, ICaL rescale: 0.8533080013649825
+Computing condition 12. IKr rescale : 0.5568385024132165, ICaL rescale: 0.6183568239200713
+Computing condition 13. IKr rescale : 0.2522220546663686, ICaL rescale: 0.3784340898239233
+Computing condition 14. IKr rescale : 0.9386663349091814, ICaL rescale: 0.9752585247883112
+Computing condition 15. IKr rescale : 0.6838110343264983, ICaL rescale: 0.8985477060737919
+Computing condition 16. IKr rescale : 0.0596289490842273, ICaL rescale: 0.3747720669665326
+Computing condition 17. IKr rescale : 0.99999999997, ICaL rescale: 0.9534025102565272
+Computing condition 18. IKr rescale : 0.9999999997, ICaL rescale: 0.7433770998922243
+Computing condition 19. IKr rescale : 0.999999997, ICaL rescale: 0.2908418355540261
+Computing condition 20. IKr rescale : 0.9082907740186432, ICaL rescale: 0.9665645503231348
+Computing condition 21. IKr rescale : 0.4912579033088693, ICaL rescale: 0.8714121547635373
+Computing condition 22. IKr rescale : 0.0860470007498692, ICaL rescale: 0.613695785446362
+Computing condition 23. IKr rescale : 0.9896045227820272, ICaL rescale: 0.9975947829760208
+Computing condition 24. IKr rescale : 0.4082119837670088, ICaL rescale: 0.6782290787193461
+Computing condition 25. IKr rescale : 0.1700139192682441, ICaL rescale: 0.3644870364581602
+Computing condition 26. IKr rescale : 0.9619780609444768, ICaL rescale: 0.9720270103564536
+Computing condition 27. IKr rescale : 0.7273467875994636, ICaL rescale: 0.8687877874389692
+Computing condition 28. IKr rescale : 0.219527334222066, ICaL rescale: 0.5578452523044688
+The score for the model TT06_Endo.mmtis : 61.73167310535713
+Computing condition 0. IKr rescale : 0.7806143063103824, ICaL rescale: 0.9583077580549602
+Computing condition 1. IKr rescale : 0.5891029870315762, ICaL rescale: 0.8719695932892019
+Computing condition 2. IKr rescale : 0.3577315320431326, ICaL rescale: 0.6577514150936657
+Computing condition 3. IKr rescale : 0.8571038246698383, ICaL rescale: 0.9256945943546704
+Computing condition 4. IKr rescale : 0.6383969498375075, ICaL rescale: 0.7868194628016222
+Computing condition 5. IKr rescale : 0.4244420972037606, ICaL rescale: 0.6076727874808509
+Computing condition 6. IKr rescale : 0.0725739414333091, ICaL rescale: 0.1426157521116747
+Computing condition 7. IKr rescale : 0.9835511462508094, ICaL rescale: 0.9999999999999
+Computing condition 8. IKr rescale : 0.8016898015147486, ICaL rescale: 0.999999999999
+Computing condition 9. IKr rescale : 0.2146475409890979, ICaL rescale: 0.99999999999
+Computing condition 10. IKr rescale : 0.1083103458256202, ICaL rescale: 0.99999999998
+Computing condition 11. IKr rescale : 0.7708840615153412, ICaL rescale: 0.8260355219686193
+Computing condition 12. IKr rescale : 0.5487585794269181, ICaL rescale: 0.5817725808334263
+Computing condition 13. IKr rescale : 0.3581030268520187, ICaL rescale: 0.3520419570865351
+Computing condition 14. IKr rescale : 0.8919214831605962, ICaL rescale: 0.9818679136569444
+Computing condition 15. IKr rescale : 0.6589418372173795, ICaL rescale: 0.9138650728753576
+Computing condition 16. IKr rescale : 0.1234358652225907, ICaL rescale: 0.3593273856501807
+Computing condition 17. IKr rescale : 0.99999999997, ICaL rescale: 0.9421949426208984
+Computing condition 18. IKr rescale : 0.9999999997, ICaL rescale: 0.7560182478105273
+Computing condition 19. IKr rescale : 0.999999997, ICaL rescale: 0.3707054133471288
+Computing condition 20. IKr rescale : 0.952786166744141, ICaL rescale: 0.9852507374631267
+Computing condition 21. IKr rescale : 0.4296233737635451, ICaL rescale: 0.8697916666666667
+Computing condition 22. IKr rescale : 0.0273454334250658, ICaL rescale: 0.4004796163069544
+Computing condition 23. IKr rescale : 0.9907495061017076, ICaL rescale: 0.9993767242881167
+Computing condition 24. IKr rescale : 0.3775696972579009, ICaL rescale: 0.7660762463920454
+Computing condition 25. IKr rescale : 0.1449524217899362, ICaL rescale: 0.415828641202047
+Computing condition 26. IKr rescale : 0.9988136933137812, ICaL rescale: 0.96875
+Computing condition 27. IKr rescale : 0.947827483174876, ICaL rescale: 0.7560975609756097
+Computing condition 28. IKr rescale : 0.2816098673700453, ICaL rescale: 0.2366412213740457
+The score for the model TT06_Endo.mmtis : 56.98120894819013
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@rkanc033is07>
+Subject: Job 26647213: <barraly:rep1prod:ST-13765740:TT06 Endo> in cluster <rka> Done
+
+Job <barraly:rep1prod:ST-13765740:TT06 Endo> was submitted from host <rkanc001is01> by user <valmseb> in cluster <rka> at Fri Oct 14 18:19:14 2022
+Job was executed on host(s) <2*rkanc033is07>, in queue <long>, as user <valmseb> in cluster <rka> at Fri Oct 14 18:19:14 2022
+</home/valmseb> was used as the home directory.
+</pmount/projects/site/pred/modsim_filestore/valmsep/xfer/B04A5142A1344AEFA7AD0BF92AFFA2FA> was used as the working directory.
+Started at Fri Oct 14 18:19:14 2022
+Terminated at Fri Oct 14 18:27:42 2022
+Results reported at Fri Oct 14 18:27:42 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+ml Python/3.8.2-GCCcore-9.3.0;python compute_score.py TT06_Endo potassium_dynamics.K_o sodium_dynamics.Na_o calcium_dynamics.Ca_o
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   504.24 sec.
+    Max Memory :                                 134 MB
+    Average Memory :                             97.29 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   508 sec.
+    Turnaround time :                            508 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <TT06_Endo_score.err> for stderr output of this job.
+

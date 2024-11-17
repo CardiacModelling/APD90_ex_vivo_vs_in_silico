@@ -1,0 +1,115 @@
+Model for the simulation : TT04.mmt
+
+Loading the model ...
+Model loaded. Creating the simulation...
+['sundials_cvodes', 'sundials_nvecserial', 'm']
+['/home/valmseb/sundials/lib64']
+['/home/valmseb/sundials/include', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim', '/home/valmseb/.local/lib/python3.8/site-packages/myokit/_sim']
+Simulation ready.
+
+
+Dataset correctly loaded.
+
+Computing condition 0. IKr rescale : 0.7499136497541532, ICaL rescale: 0.9416232157205352
+Computing condition 1. IKr rescale : 0.4986879543144751, ICaL rescale: 0.8354483564193039
+Computing condition 2. IKr rescale : 0.2399519210629603, ICaL rescale: 0.6040566902496064
+Computing condition 3. IKr rescale : 0.889688628249299, ICaL rescale: 0.7880402220838933
+Computing condition 4. IKr rescale : 0.6710917362055436, ICaL rescale: 0.5821481323501811
+Computing condition 5. IKr rescale : 0.4334166904993027, ICaL rescale: 0.4087778405030799
+Computing condition 6. IKr rescale : 0.0579280750272665, ICaL rescale: 0.1025359026632802
+Computing condition 7. IKr rescale : 0.9759675752260808, ICaL rescale: 0.9999999999999
+Computing condition 8. IKr rescale : 0.7633585671280189, ICaL rescale: 0.999999999999
+Computing condition 9. IKr rescale : 0.2039703503489224, ICaL rescale: 0.99999999999
+Computing condition 10. IKr rescale : 0.1067741418155588, ICaL rescale: 0.99999999998
+Computing condition 11. IKr rescale : 0.8749881908965963, ICaL rescale: 0.8533080013649825
+Computing condition 12. IKr rescale : 0.5568385024132165, ICaL rescale: 0.6183568239200713
+Computing condition 13. IKr rescale : 0.2522220546663686, ICaL rescale: 0.3784340898239233
+Computing condition 14. IKr rescale : 0.9386663349091814, ICaL rescale: 0.9752585247883112
+Computing condition 15. IKr rescale : 0.6838110343264983, ICaL rescale: 0.8985477060737919
+Computing condition 16. IKr rescale : 0.0596289490842273, ICaL rescale: 0.3747720669665326
+Computing condition 17. IKr rescale : 0.99999999997, ICaL rescale: 0.9534025102565272
+Computing condition 18. IKr rescale : 0.9999999997, ICaL rescale: 0.7433770998922243
+Computing condition 19. IKr rescale : 0.999999997, ICaL rescale: 0.2908418355540261
+Computing condition 20. IKr rescale : 0.9082907740186432, ICaL rescale: 0.9665645503231348
+Computing condition 21. IKr rescale : 0.4912579033088693, ICaL rescale: 0.8714121547635373
+Computing condition 22. IKr rescale : 0.0860470007498692, ICaL rescale: 0.613695785446362
+Computing condition 23. IKr rescale : 0.9896045227820272, ICaL rescale: 0.9975947829760208
+Computing condition 24. IKr rescale : 0.4082119837670088, ICaL rescale: 0.6782290787193461
+Computing condition 25. IKr rescale : 0.1700139192682441, ICaL rescale: 0.3644870364581602
+Computing condition 26. IKr rescale : 0.9619780609444768, ICaL rescale: 0.9720270103564536
+Computing condition 27. IKr rescale : 0.7273467875994636, ICaL rescale: 0.8687877874389692
+Computing condition 28. IKr rescale : 0.219527334222066, ICaL rescale: 0.5578452523044688
+The score for the model TT04.mmtis : 67.14196922931772
+Computing condition 0. IKr rescale : 0.7806143063103824, ICaL rescale: 0.9583077580549602
+Computing condition 1. IKr rescale : 0.5891029870315762, ICaL rescale: 0.8719695932892019
+Computing condition 2. IKr rescale : 0.3577315320431326, ICaL rescale: 0.6577514150936657
+Computing condition 3. IKr rescale : 0.8571038246698383, ICaL rescale: 0.9256945943546704
+Computing condition 4. IKr rescale : 0.6383969498375075, ICaL rescale: 0.7868194628016222
+Computing condition 5. IKr rescale : 0.4244420972037606, ICaL rescale: 0.6076727874808509
+Computing condition 6. IKr rescale : 0.0725739414333091, ICaL rescale: 0.1426157521116747
+Computing condition 7. IKr rescale : 0.9835511462508094, ICaL rescale: 0.9999999999999
+Computing condition 8. IKr rescale : 0.8016898015147486, ICaL rescale: 0.999999999999
+Computing condition 9. IKr rescale : 0.2146475409890979, ICaL rescale: 0.99999999999
+Computing condition 10. IKr rescale : 0.1083103458256202, ICaL rescale: 0.99999999998
+Computing condition 11. IKr rescale : 0.7708840615153412, ICaL rescale: 0.8260355219686193
+Computing condition 12. IKr rescale : 0.5487585794269181, ICaL rescale: 0.5817725808334263
+Computing condition 13. IKr rescale : 0.3581030268520187, ICaL rescale: 0.3520419570865351
+Computing condition 14. IKr rescale : 0.8919214831605962, ICaL rescale: 0.9818679136569444
+Computing condition 15. IKr rescale : 0.6589418372173795, ICaL rescale: 0.9138650728753576
+Computing condition 16. IKr rescale : 0.1234358652225907, ICaL rescale: 0.3593273856501807
+Computing condition 17. IKr rescale : 0.99999999997, ICaL rescale: 0.9421949426208984
+Computing condition 18. IKr rescale : 0.9999999997, ICaL rescale: 0.7560182478105273
+Computing condition 19. IKr rescale : 0.999999997, ICaL rescale: 0.3707054133471288
+Computing condition 20. IKr rescale : 0.952786166744141, ICaL rescale: 0.9852507374631267
+Computing condition 21. IKr rescale : 0.4296233737635451, ICaL rescale: 0.8697916666666667
+Computing condition 22. IKr rescale : 0.0273454334250658, ICaL rescale: 0.4004796163069544
+Computing condition 23. IKr rescale : 0.9907495061017076, ICaL rescale: 0.9993767242881167
+Computing condition 24. IKr rescale : 0.3775696972579009, ICaL rescale: 0.7660762463920454
+Computing condition 25. IKr rescale : 0.1449524217899362, ICaL rescale: 0.415828641202047
+Computing condition 26. IKr rescale : 0.9988136933137812, ICaL rescale: 0.96875
+Computing condition 27. IKr rescale : 0.947827483174876, ICaL rescale: 0.7560975609756097
+Computing condition 28. IKr rescale : 0.2816098673700453, ICaL rescale: 0.2366412213740457
+The score for the model TT04.mmtis : 67.13979663962769
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@rkanc034is07>
+Subject: Job 26672490: <barraly:rep1prod:ST-13765740:TT04> in cluster <rka> Done
+
+Job <barraly:rep1prod:ST-13765740:TT04> was submitted from host <rkanc001is01> by user <valmseb> in cluster <rka> at Sun Oct 16 23:09:57 2022
+Job was executed on host(s) <2*rkanc034is07>, in queue <long>, as user <valmseb> in cluster <rka> at Sun Oct 16 23:09:57 2022
+</home/valmseb> was used as the home directory.
+</pmount/projects/site/pred/modsim_filestore/valmsep/xfer/64D74C95B12E4361834AD365974FF138> was used as the working directory.
+Started at Sun Oct 16 23:09:57 2022
+Terminated at Sun Oct 16 23:14:32 2022
+Results reported at Sun Oct 16 23:14:32 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+ml Python/3.8.2-GCCcore-9.3.0;python compute_score.py TT04 potassium_dynamics.K_o sodium_dynamics.Na_o calcium_dynamics.Ca_o
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   263.69 sec.
+    Max Memory :                                 164 MB
+    Average Memory :                             127.18 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   276 sec.
+    Turnaround time :                            275 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <TT04_score.err> for stderr output of this job.
+
