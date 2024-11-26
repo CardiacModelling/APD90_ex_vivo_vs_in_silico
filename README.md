@@ -2,7 +2,7 @@
 
 Hi fellow scientist!
 
-Welcome to this repo supporting the paper "Comparison of in silico predictions of action potential duration in response to inhibition of IKr and ICaL with new human experimental data", (Barral et al. 2022). This is the place where you will find all the necessary resources to reproduce our results. 
+Welcome to this repo supporting the paper "Comparison of in silico predictions of action potential duration in response to inhibition of IKr and ICaL with new human experimental data", (Barral et al. 2024). This is the place where you will find all the necessary resources to reproduce our results. 
 
 ## Creating the necessary Python environment
 If you don't have it yet on your machine, start by installing Python. For this, we used the Anaconda suite (https://www.anaconda.com/products/distribution).
