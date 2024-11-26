@@ -5970,6 +5970,7 @@ http://www.cellml.org/
         <relationship_ref relationship="encapsulation"/>
         <component_ref component="interface">
             <component_ref component="environment"/>
+            <component_ref component="drug"/>
             <component_ref component="parameters"/>
             <component_ref component="I_Na"/>
             <component_ref component="I_NaBK"/>
