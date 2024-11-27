@@ -42,19 +42,20 @@ def compute_AP_and_currents(ikr_rescale, ical_rescale):
     IKs = np.array(out['IKs.IKs'])
     IK1 = np.array(out['IK1.IK1'])
     Ito = np.array(out['Ito.Ito'])
-    
+
     return AP, IKr, ICaL, INaL, IKs, IK1, Ito
-    
 
 
 # Loop over the whole possible IKr rescale
 ikr_rescale = np.linspace(0, 1, 101)
 QNets = np.zeros(101)
 for index in range(101):
-    AP, IKr, ICaL, INaL, IKs, IK1, Ito = compute_AP_and_currents(ikr_rescale[index], ical_rescale)
-    QNets[index] = np.sum(IKr + ICaL + INaL + IKs + IK1 + Ito) * 0.00001 # *dt for integration
+    print('Computing with ikr_rescale: ' + str(ikr_rescale[index]) + '...')
+    AP, IKr, ICaL, INaL, IKs, IK1, Ito = compute_AP_and_currents(
+        ikr_rescale[index], ical_rescale)
+    QNets[index] = np.sum(IKr + ICaL + INaL + IKs + IK1 +
+                          Ito) * 0.00001  # *dt for integration
+    print('  QNet: ' + str(QNets[index]))
 
-
-
-# Save the outputs    
+# Save the outputs
 np.savetxt('Simulated QNet/ical_rescale_' + str(ical_rescale) + '.csv', QNets)
