@@ -5,7 +5,20 @@ Hi fellow scientist!
 Welcome to this repo supporting the paper "Comparison of in silico predictions of action potential duration in response to inhibition of IKr and ICaL with new human experimental data", (Barral et al. 2024). This is the place where you will find all the necessary resources to reproduce our results. 
 
 ## Creating the necessary Python environment
-If you don't have it yet on your machine, start by installing Python. For this, we used the Anaconda suite (https://www.anaconda.com/products/distribution).
+If you don't have it yet on your machine, start by installing Python. 
+
+### Option 1
+
+Create a python3 virtual environment, start it, and install a few dependencies:
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install myokit pandas scipy
+```
+If anything fails to build/run the original dependency versions can be seen in the environment.yml mentioned in Option 2.
+
+### Option 2
+Use the Anaconda suite (https://www.anaconda.com/products/distribution).
 
 To make sure that all scripts runs smoothly, please create first the virtual environment with necessary libraries, using the ```environment.yml``` file. To do so, browse to this folder's location and run the command:
 ```conda env create -f environment.yml```.
