@@ -2,15 +2,18 @@ import myokit
 import numpy as np
 import sys
 
-# To run this script, one needs to pass 3 arguments: 
-# The input corresponding to the percentage of available IKr --> num==100 <=> 0% IKr block. This can be passed as an array of jobs
-# The model name, e.g., "ORd_CiPA". Look for it in the folder "MMT models".
-# The folder to log out the simulation results, e.g., "ORd_CiPA". This must mathc one of the sub-folders.
+"""
+To run this script, one needs to pass 3 arguments: 
+The input corresponding to the percentage of available IKr --> num==100 <=> 0% IKr block. This can be passed as an array of jobs. This is particularly recommended to parallelise the computation of the 2D maps.
+The model name, e.g., "ORd_CiPA". Look for it in the folder "MMT models".
+The folder to log out the simulation results, e.g., "ORd_CiPA". This must match one of the sub-folders.
+A command line example is" `python compute_2D_map.py 100 "ORd_CiPA" "ORd_CiPA"` for computing the column of the 2D map corresponding to a 0% IKr block.
+"""
 
 # Read out inputs to the script
-num = float(sys.argv[1]) - 1 # LSF array of jobs starts at 1
-model = '../MMT models/' + str(sys.argv[2]) + '.mmt' # Parse the MMT filename
-folder = str(sys.argv[3])
+num = float(sys.argv[1]) # Will be parsed for the IKr rescaling factor. 100 = 0% IKr block, 0 = 100% IKr block.
+model = '../MMT models/' + str(sys.argv[2]) + '.mmt' # Retrieve the MMT filename
+folder = str(sys.argv[3]) # Define the folder where to save the results
 
 
 
@@ -61,7 +64,7 @@ def compute_APD(AP):
 
 ########################### RUN THE SIMULATIONS AND SAVE ###########################################################
 # Define the IKr/ICaL rescaling factors
-ikr_rescale = num/100
+ikr_rescale = num/100 # From the script input
 print('IKr rescale : ' + str(ikr_rescale) + '.')
 ical_rescales = np.linspace(0, 1, 101)
 

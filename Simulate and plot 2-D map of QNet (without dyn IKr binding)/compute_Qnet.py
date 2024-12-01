@@ -1,8 +1,14 @@
 import numpy as np
 import myokit
+import sys
 
 # Parse the argument for ICaL rescale
-import sys
+""" 
+NOTE: To run this script, there are two options.
+ 1) The ical_rescale can be defined by hand by the use.;
+ 2) The script can be executed as a batch job, with ical_rescale as first argument. The command line is "python compute_Qnet.py 1" for 1% ICaL rescale <=> 99% ICaL block.
+""" 
+#ical_rescale = 0.01
 ical_rescale = float(sys.argv[1])/100
 
 

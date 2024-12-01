@@ -1,19 +1,11 @@
 import myokit
 import numpy as np
 import pandas as pd
-
-# To run this script, 4 arguments should be passed
-# The model name, e.g., "TT04"
-# The labels for the external concentrations in the model, e.g. "potassium_dynamics.K_o"
 import sys
-# Read out inputs to the script
-model = '../MMT models/' + str(sys.argv[1]) + '.mmt'
+
+# Change the model name as desired
+model = '../MMT models/ORd_CiPA.mmt'
 print('\nModel for the simulation : ' + model)
-
-K_o = str(sys.argv[2])
-Na_o = str(sys.argv[3])
-Ca_o = str(sys.argv[4])
-
 
 
 
